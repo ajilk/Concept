@@ -1,7 +1,7 @@
 # ![CONCEPT](Logo.png)
 ## Concept Series
 This is a series of projects to help me and others understand the concepts  <br />
-that lies under the language C++, makefiles, and the library ncurses.	<br />
+that lies under the language C++ and the library ncurses.<br />
 
 ### [Project Hue](https://github.com/azimex/Hue)
 &nbsp;&nbsp;&nbsp;&nbsp;Color options provided by NCURSES
