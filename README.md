@@ -9,4 +9,5 @@ that lies under the language C++ and the library ncurses.<br />
 ### [Project Stopwatch](https://github.com/azimex/Stopwatch)
 &nbsp;&nbsp;&nbsp;&nbsp;Stopwatch mainly designed to time Rubik's Cube Solves
 
-	
+### [Project Recall](https://github.com/azimex/Recall)
+&nbsp;&nbsp;&nbsp;&nbsp;Simple game that pushes your ability to recall patterns
