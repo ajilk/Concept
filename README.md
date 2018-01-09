@@ -12,5 +12,3 @@ that lies under the language C++ and the library ncurses.<br />
 ### [Project Recall](https://github.com/azimex/Recall)
 &nbsp;&nbsp;&nbsp;&nbsp;Simple game that pushes your ability to recall patterns
 
-### [Project T-Rex](https://github.com/azimex/T-Rex)
-&nbsp;&nbsp;&nbsp;&nbsp;All famous platformer on terminal
