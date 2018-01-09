@@ -12,3 +12,6 @@ that lies under the language C++ and the library ncurses.<br />
 ### [Project Recall](https://github.com/azimex/Recall)
 &nbsp;&nbsp;&nbsp;&nbsp;Simple game that pushes your ability to recall patterns
 
+### [Project React](https://github.com/azimex/React)
+&nbsp;&nbsp;&nbsp;&nbsp;Simple game that tests your reaction speed 
+
