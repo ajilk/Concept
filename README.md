@@ -15,3 +15,5 @@ that lies under the language C++ and the library ncurses.<br />
 ### [Project React](https://github.com/azimex/React)
 &nbsp;&nbsp;&nbsp;&nbsp;Simple game that tests your reaction speed 
 
+### [Project Immerse](https://github.com/azimex/Immerse)
+&nbsp;&nbsp;&nbsp;&nbsp;View 3D shapes on a terminal screen
