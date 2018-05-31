@@ -18,5 +18,5 @@ that lies under the language C++ and the library ncurses.<br />
 ### [Project Immerse](https://github.com/azimex/Immerse)
 &nbsp;&nbsp;&nbsp;&nbsp;View 3D shapes on a terminal screen
 
-### [Project Epoch](https://github.com/azimex/Epoch) (Coming Soon)
+### [Project Epoch](https://github.com/azimex/Epoch) 
 &nbsp;&nbsp;&nbsp;&nbsp;Display digital time on terminal
